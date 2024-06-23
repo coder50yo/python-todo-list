@@ -16,6 +16,7 @@ This is a simple Python project for managing a to-do list. You can add, remove, 
 ## Prerequisites
 
 - [Python](https://www.python.org/downloads/) installed on your system
+- [Git](https://git-scm.com/downloads) installed on your system
 
 ## Project Structure
 
@@ -42,7 +43,7 @@ todo-list/
    First, clone the repository to your local machine. Open your terminal and run the following command:
 
    ```sh
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/coder50yo/python-todo-list.git
    ```
 
 2. **Navigate to the Project Directory**
@@ -96,4 +97,5 @@ Here are some common entries in the `.gitignore` file:
 ## Additional Resources
 
 - [Python Official Documentation](https://docs.python.org/3/)
+- [Git Official Documentation](https://git-scm.com/doc)
 - [unittest Documentation](https://docs.python.org/3/library/unittest.html)
