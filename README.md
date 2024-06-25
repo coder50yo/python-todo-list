@@ -59,7 +59,7 @@ todo-list/
 To run the to-do list, execute the following command in your terminal:
 
 ```sh
-python todo.py
+python3 todo.py
 ```
 
 Follow the prompts to add, remove, or view tasks.
@@ -69,7 +69,7 @@ Follow the prompts to add, remove, or view tasks.
 To run the unit tests for the to-do list functions, execute the following command in your terminal:
 
 ```sh
-python -m unittest test_todo.py
+python3 -m unittest test_todo.py
 ```
 
 You should see output indicating that the tests passed.
